@@ -99,7 +99,7 @@ h6 {
     font-weight: 900;
     text-transform: uppercase; }
     #mainNav .navbar-brand img {
-      height: 40px; }
+      height: 65px; }
   #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -123,7 +123,7 @@ h6 {
         font-size: 26px;
         line-height: 50px; }
         #mainNav .navbar-brand img {
-          height: 46px; }
+          height: 65px; }
       #mainNav .navbar-collapse .navbar-nav > .nav-item {
         margin-right: 5px; }
         #mainNav .navbar-collapse .navbar-nav > .nav-item:last-child {
