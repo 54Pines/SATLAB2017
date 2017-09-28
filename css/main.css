@@ -763,3 +763,10 @@ header.masthead .masthead-img {
 	max-width: -webkit-fill-available;
 	max-height: auto;
 }
+
+.orbit{
+  color: white;
+}
+.orbit2{
+  color: #a9d434;
+}
