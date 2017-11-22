@@ -131,7 +131,7 @@ $(document).ready(function() {
   });
 
   // Vide - Video Background Settings
-  $('header.video').video({
+  $('header.video').vide({
     mp4: "mp4/printbg.mp4",
     poster: "img/satlab/bg-mobile-fallback.jpg"
   }, {
